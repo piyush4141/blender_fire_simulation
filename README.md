@@ -1,4 +1,4 @@
-# blender_fire_simulation
+# Fire simulation using Blender
 
 This repository contains the code and resources for generating smoke and fire simulation on set of background images.
 
@@ -20,7 +20,7 @@ The project structure is organized as follows:
    open and run blender_fire.ipynb
    ```
 # Local run:
-  1. clone repo
+  1. Clone repo
   ```shell
   git clone https://github.com/piyush4141/blender_fire_simulation.git
   cd blender_fire_simulation
