@@ -32,6 +32,3 @@ The project structure is organized as follows:
   3. export BLENDER="/PATH/TO/blender/blender"
   4. BLENDER -noaudio --background -P generate_fire.py -b
 
-## Next Steps:
-  1. Use Hdr images in background for more realistic effects.
-     
